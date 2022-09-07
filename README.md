@@ -5,8 +5,8 @@ My merge sort project for Patika.dev
 
 **********************************
 
-1.Write the stages of the above array according to the sort type.
-2.Write down the Big-O notation.
+1. Write the stages of the above array according to the sort type.
+2. Write down the Big-O notation.
 
 **********************************
 # Answers
